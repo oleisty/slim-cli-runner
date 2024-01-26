@@ -7,7 +7,7 @@ Create and run command line tasks for the Slim PHP micro-framework
 **Installation**
 
 ```
-composer require adrianfalleiro/slim-cli-runner ^3.1
+composer require adrianfalleiro/slim-cli-runner php8.2-compatible
 ```
 
 *For Slim 3 support install version 2.6 or lower*
